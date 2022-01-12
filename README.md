@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**HrQHm/HrQHm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/henrique-makita-hrq/">
+  <img align="left" alt="Henrique's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=HrQHm.HrQHm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+---
+
+Hello my name is Henry! I work as a back end developer in an ERP company.
+
+I'm currently learning JavaScript/ReactJs. I'm also trying to improve my skills on the front end.
+
+---
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HrQHm&show_icons=true&theme=dark" alt="HrQHm" />
+
+
+
